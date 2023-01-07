@@ -1,10 +1,9 @@
 ### Olá, eu sou a Mariana Borges
 
-![LinkedIn](https://img.shields.io/badge/linkedin-https://www.linkedin.com/in/mariana-borges-49806325a/style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mariana-borges-49806325a/)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-86994673450?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-https://www.discord.com/in/#MariBorges4888.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://www.discord.com/in/#MariBorges4888)
 
-image.png
 ![mariborges22 GitHub stats](https://github-readme-stats.vercel.app/api?username=mariborges22&theme=dark&show_icons=true)
 ### Tecnologias que eu utilizo:
 
