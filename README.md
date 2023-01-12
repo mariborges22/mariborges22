@@ -1,7 +1,11 @@
 ### Hello, my name is Mari Borges
+
 18y
+
 Learning Python💻
+
 Focus in Data Science and Cybersecurity 📝
+
 Discord user: MariBorges#4888
 
 ### Contact me:
