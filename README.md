@@ -4,7 +4,7 @@
 
 Learning Python and Javascript 💻
 
-Focus on Data Science and Cybersecurity 📝
+Focus on Hacking and Cybersecurity 📝
 
 Discord user: MariBorges#4888
 
