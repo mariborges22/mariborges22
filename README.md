@@ -12,6 +12,8 @@ Discord user: MariBorges#4888
 
 ![mariborges22 GitHub stats](https://github-readme-stats.vercel.app/api?username=mariborges22&show_icons=true&bg_color=00000000)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariborges22&layout=compact)](https://github.com/mariborges22/github-readme-stats)
+
 ### Contact me:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
