@@ -6,6 +6,8 @@ Learning Python and Javascript 💻
 
 Focus on Hacking and Cybersecurity 📝
 
+Fullstack developer
+
 Discord user: MariBorges#4888
 
 ### My activity:
