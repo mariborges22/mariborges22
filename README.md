@@ -2,8 +2,6 @@
 
 19y
 
-Learning Python and Javascript 💻
-
 Focus on Hacking and Cybersecurity 📝
 
 Backend developer
