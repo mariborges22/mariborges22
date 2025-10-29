@@ -1,8 +1,8 @@
 ### Hello, my name is Mari Borges
 
-19y
+21y
 
-Focus on Hacking and Cybersecurity 📝
+Focus Data Visualization and Machine learning  📝
 
 Backend developer
 
