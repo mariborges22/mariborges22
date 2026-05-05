@@ -1,8 +1,8 @@
 ### Hello, my name is Mari Borges
 
-21y
+22y
 
-Focus Data Visualization and Machine learning  📝
+
 
 Backend developer
 
